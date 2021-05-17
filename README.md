@@ -1,16 +1,37 @@
 # Angular Firebase CRUD App
 
+This is a sample Angular Firebase project for performing Create, Read, Update and Delete operations.
+
 ## Check this project by  **[Clicking here](https://2711-bharath.github.io/Angular-Firebase)**
+
+
+## Instructions 
+
+First clone this repository
+```bash
+$ git clone https://github.com/2711-bharath/Angular-Firebase.git
+```
+
+Install dependencies. Make sure you already have nodejs and npm installed in your system.
+```bash
+$ npm install # or yarn
+```
+
+**Note** : Update this section to run this project 
+
+![image](https://user-images.githubusercontent.com/54592001/118435282-504a6a00-b6fc-11eb-9909-4cda58130b46.png)
+
+To run this code - 
+```cmd
+ng serve --open
+```
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
@@ -19,10 +40,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
