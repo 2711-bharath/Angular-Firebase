@@ -26,7 +26,7 @@ export class CrudService {
     return this.friendRec;
   }
 
-  // Fetch Students List
+  // Fetch friend List
   GetFriendsList() {
     this.friendsRec = this.db.list('friends-list');
     return this.friendsRec;

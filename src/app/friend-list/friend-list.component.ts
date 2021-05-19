@@ -44,7 +44,7 @@ export class FriendListComponent implements OnInit {
   }
   
   deleteFriend(friend) {
-    if (window.confirm('Are sure you want to delete this student ?')) { 
+    if (window.confirm('Are sure you want to delete this friend details ?')) { 
       this.crudApi.DeleteFriend(friend.$key)
       this.toastr.success(friend.firstName + ' successfully deleted!');
     }
