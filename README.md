@@ -2,8 +2,6 @@
 
 This is a sample Angular Firebase project for performing Create, Read, Update and Delete operations.
 
-## Check this project by  **[Clicking here](https://2711-bharath.github.io/Angular-Firebase)**
-
 
 ## Instructions 
 
